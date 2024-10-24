@@ -1,1 +1,1 @@
-# lengthoflongestconsecutiveones
+This repository contains a solution to the problem of finding the longest contiguous subarray in a binary array that can have at most k zeros. The solution is implemented using a sliding window technique, which is efficient for this type of problem.
